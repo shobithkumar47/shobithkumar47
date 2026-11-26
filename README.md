@@ -25,6 +25,7 @@ Embedded	Microcontroller programming, sensor interfacing, IoT
 
 IoT Intern – Emertxe Information Technologies (Mar – Apr 2026) Built embedded IoT applications in C on microcontrollers, with sensor interfacing and real-time data acquisition.
 
-📫 Contact
+### 📫 Contact
 
-LinkedIn · Email
+- **LinkedIn:** [linkedin.com/in/k-shobith-kumar](https://www.linkedin.com/in/k-shobith-kumar)
+- **Email:** shobithgowda33@gmail.com
